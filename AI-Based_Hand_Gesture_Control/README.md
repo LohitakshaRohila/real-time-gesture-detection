@@ -1,4 +1,4 @@
-# Webcam Hand Gesture Recognition
+# Webcam number Recognition
 
 A Python application that recognizes hand gestures using a webcam and displays the corresponding prediction on the screen.
 
@@ -6,7 +6,7 @@ A Python application that recognizes hand gestures using a webcam and displays t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/webcam-hand-gesture-recognition.git
+   git clone https://github.com/your-username/real-time-gesture-detection.git
 Install dependencies using requirements.txt
 pip install -r requirements.txt
 
